@@ -1,0 +1,12 @@
+﻿  TimerDXUT.cpp
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(233,85): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(234,92): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(235,94): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(236,94): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(237,91): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(258,78): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(259,77): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(273,93): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(274,84): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\User\Documents\Pong\TimerDXUT\TimerDXUT.cpp(275,98): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  TimerDXUT.vcxproj -> C:\Users\User\Documents\Pong\x64\Debug\TimerDXUT.exe

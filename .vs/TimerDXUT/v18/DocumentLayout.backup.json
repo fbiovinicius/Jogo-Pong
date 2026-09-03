@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\TimerDXUT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|solutionrelative:TimerDXUT\\TimerDXUT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Minhas Coisas\\Visual Studio\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|solutionrelative:TimerDXUT\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|solutionrelative:TimerDXUT\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31CC9C5-D52D-4507-A3F1-14B6B4990565}|TimerDXUT\\TimerDXUT.vcxproj|solutionrelative:TimerDXUT\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "D:\\Minhas Coisas\\Visual Studio\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "ToolTip": "D:\\Minhas Coisas\\Visual Studio\\MSBuild\\Microsoft\\VC\\v180\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAMwBAAAAAAAAAAA2wNwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-02T15:59:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Engine.cpp",
+              "RelativeDocumentMoniker": "TimerDXUT\\Engine.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Engine.cpp",
+              "RelativeToolTip": "TimerDXUT\\Engine.cpp",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T15:40:25.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Window.cpp",
+              "RelativeDocumentMoniker": "TimerDXUT\\Window.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Window.cpp",
+              "RelativeToolTip": "TimerDXUT\\Window.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T15:40:18.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Timer.cpp",
+              "RelativeDocumentMoniker": "TimerDXUT\\Timer.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\Timer.cpp",
+              "RelativeToolTip": "TimerDXUT\\Timer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T15:40:01.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimerDXUT.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\TimerDXUT.cpp",
+              "RelativeDocumentMoniker": "TimerDXUT\\TimerDXUT.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\Pong\\TimerDXUT\\TimerDXUT.cpp",
+              "RelativeToolTip": "TimerDXUT\\TimerDXUT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-26T15:38:44.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
